@@ -6,7 +6,7 @@ import Lotofacil from "../components/Lotofacil";
 export default function Principal() {
     const { megasena } = useContext(Contexto);
     return (
-        <div>
+        <div id="principal-bloco">
             <Megasena/>
             <Lotofacil/>
         </div>

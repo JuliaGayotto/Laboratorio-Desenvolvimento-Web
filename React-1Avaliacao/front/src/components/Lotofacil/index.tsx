@@ -5,7 +5,7 @@ function Lotofacil() {
     const { lotofacil } = useContexto();
 
     return (
-        <div className="container-loto">
+        <div id="container-loto">
             {JSON.stringify(lotofacil)}
         </div>
         // <div id="mega-bloco-principal">
