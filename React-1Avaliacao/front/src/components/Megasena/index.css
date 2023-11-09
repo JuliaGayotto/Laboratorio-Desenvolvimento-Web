@@ -1,5 +1,4 @@
 #container-mega {
-    background-color: yellow;
     display: flex;
     padding: 30px 0px;
     border-bottom: 1px solid #ddd;
@@ -37,4 +36,33 @@
 
 #direita-mega {
     margin-left: 50px;
+}
+
+#linha-bola-mega {
+    display: flex;
+}
+
+.bola-mega {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0px 10px;
+    padding: 10px;
+    border-radius: 1.2rem;
+    color:#fff;
+    background-color: #209869;
+}
+
+#texto-acumulou-mega {
+    padding-left: 10px;
+    margin-top: 15px;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #0066b3;
+}
+
+#data-concurso-mega {
+    padding-left: 10px;
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #4c556c;  
 }

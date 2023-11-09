@@ -14,6 +14,6 @@ export interface Props{
     quantidadeGanhadores: number;
     tipoPublicacao: number;
     tipoJogo: string;
-    valorEstimadoProximoConcurso: number;
+    valorEstimadoProximoConcurso: string;
     valorPremio: number
 }
