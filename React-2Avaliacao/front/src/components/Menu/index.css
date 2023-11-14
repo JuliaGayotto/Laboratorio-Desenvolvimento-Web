@@ -1,0 +1,29 @@
+#menu {
+    display: flex;
+    justify-content: flex-start;
+    padding: 1vh 2vw;
+    gap: 20px;
+}
+
+#menu a{
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 1rem;
+}
+
+#loto {
+    color: #930089;
+    pointer-events: none;
+}
+
+#mega {
+    color: #209869;
+}
+
+#quina {
+    color: #260085;
+}
+
+#quina:active {
+    color: #aaa
+}

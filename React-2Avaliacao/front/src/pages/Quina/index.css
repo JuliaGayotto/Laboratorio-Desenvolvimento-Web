@@ -1,0 +1,75 @@
+#container-quina {
+    display: flex;
+    padding: 30px 0px;
+    border-bottom: 1px solid #ddd;
+    font-family: Roboto;
+}
+
+#logo-titulo-quina {
+    display: flex;
+}
+
+#nome-quina {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-left: 10px;
+    color: #260085;
+}
+
+#estimativa-quina {
+    width: 15rem;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+#texto-estimativa-quina {
+    font-size: 0.9rem;
+    color: #4c556c;   
+}
+
+#valor-estimativa-quina {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 15px;
+    color: #260085;  
+}
+
+#direita-quina {
+    margin-left: 50px;
+}
+
+#linha-bola-quina {
+    display: flex;
+}
+
+.bola-quina {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0px 10px;
+    padding: 10px;
+    border-radius: 1.2rem;
+    color:#fff;
+    background-color: #260085;
+}
+
+#texto-acumulou-quina {
+    padding-left: 10px;
+    margin-top: 15px;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #0066b3;
+}
+
+#data-concurso-quina {
+    padding-left: 10px;
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #4c556c;  
+}
+
+#carregando-quina {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 85vh ;
+}
