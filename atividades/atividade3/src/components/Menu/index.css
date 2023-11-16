@@ -1,0 +1,12 @@
+#menu {
+    display: flex;
+    justify-content: flex-start;
+    padding: 1vh 2vw;
+    gap: 20px;
+}
+
+#menu a{
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 1rem;
+}
